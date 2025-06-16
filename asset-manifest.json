@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/printellect/static/css/main.bd5a979d.css",
+    "main.js": "/printellect/static/js/main.95f0a4d3.js",
+    "static/js/453.ed3810f9.chunk.js": "/printellect/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/printellect/index.html",
+    "main.bd5a979d.css.map": "/printellect/static/css/main.bd5a979d.css.map",
+    "main.95f0a4d3.js.map": "/printellect/static/js/main.95f0a4d3.js.map",
+    "453.ed3810f9.chunk.js.map": "/printellect/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd5a979d.css",
+    "static/js/main.95f0a4d3.js"
+  ]
+}
